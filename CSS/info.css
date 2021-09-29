@@ -1,0 +1,78 @@
+@import 
+url('https:fonts.googleapis.com/css2?family=Poppins:wgth@200;300;400;500;600;700;800;900&display=swap');
+
+.nav{
+	padding:0px;
+	margin:0px;
+	height: 200px;
+	background-color: rgb(17, 17, 17);
+	width:100%;
+}
+.fn{
+	background-color: rgb(5, 3, 22);
+	height:40px;
+	padding:10px;
+	width:100%;
+	align-items: center;
+	justify-content: center;
+}
+.body {
+	background-color: brown;
+	width:1180px;
+    height:auto;
+	border:red 1px solid;
+	border-style:dashed;
+	margin-top:30px;
+	padding:10px;
+}
+input{
+	border: none;
+	height:40px;
+	width:60px;
+	border-radius: 15px;
+}
+#button{
+	background-color: #031a26;
+	border: none;
+	height:40px;
+	width:60px;
+	border-radius: 15px;
+}
+a{
+	text-decoration: none;
+	text-transform: none;
+	background-color: #031a26;
+	color:red;
+}
+.edit{
+	color: white;
+}
+.add{
+	color: black;
+}
+.del{
+	color:rgb(78, 1, 1);
+}
+td {
+	text-align:center;
+	padding:10px;
+}
+table {
+	margin:auto;
+	border:blue 1px solid;
+}
+label {
+	font-size:18px;
+	color:blue;
+    font-weight: bold;
+    font-family: cursive;
+}
+h2 {
+	color:red;
+	text-align:center;
+}
+th {
+	color:red;
+	font-size:20px;
+    font-family: cursive;
+}
